@@ -3,12 +3,12 @@
 Chat em tempo real usando NodeJS + Socket.io.
 
 # Dependencies
-$ npm install ejs
-$ npm install express
+$ npm install ejs             
+$ npm install express         
 $ npm install socket.io
 
 # Run project
-$ node server.js
+$ node server.js            
 
 
 
