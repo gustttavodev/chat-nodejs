@@ -2,9 +2,7 @@
 
 # Dependencies
 ```
-$ npm install ejs             
-$ npm install express         
-$ npm install socket.io
+$ npm install
 ```
 # Run project
 ```
